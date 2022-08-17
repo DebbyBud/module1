@@ -1,0 +1,26 @@
+{
+  "name": "microverse",
+  "version": "1.0.0",
+  "description": "The first Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DebbyBud/module1.git"
+  },
+  "keywords": [
+    "Hello",
+    "Microverse"
+  ],
+  "author": "Debby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebbyBud/module1/issues"
+  },
+  "homepage": "https://github.com/DebbyBud/module1#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
+}
